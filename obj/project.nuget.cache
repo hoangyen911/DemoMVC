@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9eVydD0+nX3Ay8eHsWWKIYSjvayDy2jT6LUMtnQOmzMcUfa0ay8ZFU3jmAdHraWT9wC3VrGUtyR9RuHVZ3TEw==",
+  "dgSpecHash": "dTxvJa8B+c8bA1+ifHGLO3Q2Jbfaa6+1JdX1bpmy1Wen+T6MP+MzfFMRWb9mgyjE+CzY/bkzS/y3fOwY31SnIg==",
   "success": true,
-  "projectFilePath": "D:\\netcore\\DemoMVC\\DemoMVC.csproj",
+  "projectFilePath": "C:\\netcore\\DemoMVC\\DemoMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\netcore\\DemoMVC\\DemoMVC.csproj",
+      "projectUniqueName": "C:\\netcore\\DemoMVC\\DemoMVC.csproj",
       "projectName": "DemoMVC",
-      "projectPath": "D:\\netcore\\DemoMVC\\DemoMVC.csproj",
+      "projectPath": "C:\\netcore\\DemoMVC\\DemoMVC.csproj",
       "packagesPath": "C:\\Users\\TNC\\.nuget\\packages\\",
-      "outputPath": "D:\\netcore\\DemoMVC\\obj\\",
+      "outputPath": "C:\\netcore\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TNC\\AppData\\Roaming\\NuGet\\NuGet.Config",
